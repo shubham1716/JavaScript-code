@@ -20,3 +20,11 @@
     
  }
     myfunction();
+
+
+
+    //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    +++++++++++++++++++++++++++++++
+
+    //stack(primitive) vs heap memory(non-primitive data types)
+    //stack ko copy milta hai
+    //heap memory ka reference milta hai
